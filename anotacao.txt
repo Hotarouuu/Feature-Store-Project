@@ -1,0 +1,3 @@
+Informações a considerar:
+
+- adicionar ao readme posteriormente sobre como poderiamos usar a feature store em um banco de dados na nuvem por exemplo
