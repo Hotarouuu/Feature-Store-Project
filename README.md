@@ -2,8 +2,8 @@
 
 ## Introduction
 
-In this small project, I'm creating a full Machine Learning Pipeline focusing on feature store, feature engineering and training. We are not creating a predict script this time.
-This small project was developed in the "Formação Machine Learning 4.0" from Data Science Academy. All credit goes to them.
+In this small project, I'm creating a full Machine Learning Pipeline focusing on feature store, feature engineering and training. We are not creating a prediction script this time.
+This small project was developed in the "Formação Machine Learning 4.0" by Data Science Academy. All credit goes to them.
 
 ---
 
@@ -128,4 +128,5 @@ The main objective of this project is to demonstrate the construction of a struc
 - Model persistence
 - Execution traceability
 - Reproducibility
+
 
