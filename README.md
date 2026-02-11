@@ -36,7 +36,9 @@ This small project was developed in the "Formação Machine Learning 4.0" from D
 
 ## Project Structure
 
-    ├── main.py
+    ├── artifacts
+    ├── feature_store/
+    ├── pipeline_runs/
     ├── src/
     │   ├── data/
     │   │   ├── feature_store.py
@@ -44,9 +46,9 @@ This small project was developed in the "Formação Machine Learning 4.0" from D
     │   └── model/
     │       ├── train.py
     │       └── save.py
-    ├── feature_store/
-    ├── pipeline_runs/
-    └── pyproject.toml
+    ├── pyproject.toml
+    ├── main.py
+    ├── uv.lock
 
 ---
 
@@ -126,3 +128,4 @@ The main objective of this project is to demonstrate the construction of a struc
 - Model persistence
 - Execution traceability
 - Reproducibility
+
