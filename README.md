@@ -54,7 +54,7 @@ This small project was developed in the "Formação Machine Learning 4.0" by Dat
 
 ## 1. Data Exploration and Processing
 
-The data exploration phase is responsible for analyzing the dataset generated after the creation of the Feature Store. In this phase, descriptive statistical analyses, evaluation of the distribution of variables, and general inspection of data quality are performed.
+In this phase, descriptive statistical analyses, evaluation of the distribution of variables, and general inspection of data quality are performed.
 
 The objective of this phase is to understand the behavior of the variables before training the model, identify potential problems, and generate initial insights that aid in the interpretation of the results.
 
@@ -62,19 +62,15 @@ The objective of this phase is to understand the behavior of the variables befor
 
 ## 2. Feature Engineering
 
-A engenharia de atributos é responsável por transformar os dados brutos
-em variáveis adequadas para modelagem. Essa etapa inclui tratamento de
-dados, criação de novas variáveis, ajustes estruturais e consolidação do
-dataset final.
+This step includes data processing, creation of new variables, structural adjustments, and consolidation of the final dataset.
 
-O resultado dessa fase é um DataFrame pronto para ser utilizado no
-treinamento do modelo.
+The result of this phase is a DataFrame ready to be used in model training.
 
 ---
 
 ## 3. Feature Store
 
-Feature engineering is responsible for transforming raw data into variables suitable for modeling. This step includes data processing, creation of new variables, structural adjustments, and consolidation of the final dataset.
+This step includes data processing, creation of new variables, structural adjustments, and consolidation of the final dataset.
 
 The result of this phase is a DataFrame ready to be used in model training.
 
@@ -128,5 +124,6 @@ The main objective of this project is to demonstrate the construction of a struc
 - Model persistence
 - Execution traceability
 - Reproducibility
+
 
 
